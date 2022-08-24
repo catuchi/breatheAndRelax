@@ -4,7 +4,7 @@
 
 ## Demo
 
-This app is deployed on netlify. Try it [Password Generator](https://whimsical-cobbler-7797c5.netlify.app/)
+This app is deployed on netlify. Try it [Password Generator](https://moonlit-pixie-15c6c7.netlify.app/)
 
 ## Tech Stack
 
@@ -12,7 +12,7 @@ Javascript, HTML, CSS, Parcel Bundler
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/catuchi/TextToSpeech/main/dist/img/App%20Screenshot.png)
+![App Screenshot](https://github.com/catuchi/breatheAndRelax/blob/main/img/app_screenshot.png?raw=true)
 
 ## Authors
 
