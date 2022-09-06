@@ -4,7 +4,7 @@
 
 ## Demo
 
-This app is deployed on netlify. Try it [Password Generator](https://moonlit-pixie-15c6c7.netlify.app/)
+This app is deployed on netlify. Try it [Breathe and Relax](https://moonlit-pixie-15c6c7.netlify.app/)
 
 ## Tech Stack
 
